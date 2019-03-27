@@ -10,6 +10,7 @@ import UIKit
 
 class DetailedVCViewController: UIViewController {
     
+    //Test
     
     @IBOutlet weak var lblTitleVal: UILabel!
     @IBOutlet weak var lblSourceVal: UILabel!
